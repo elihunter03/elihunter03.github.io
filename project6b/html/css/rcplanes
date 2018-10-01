@@ -1,1 +1,29 @@
 
+﻿<1!DOCTYPE html>
+<html>
+<head>
+	<title>RC Planes</title>
+</head>
+<body>
+	<nav>
+	<a href="https://en.wikipedia.org/wiki/Radio-controlled_aircraft" target="_blank">Learn More</a>
+	<a href="#historic">Historic</a>
+	</nav>
+	<h1>RC Planes</h1>
+	<p>Radio Controlled aircraft, or RC, are an extremely popular hobby for all classes of people throughout the world. These models can range anywhere from a beginner's little helicopter, to an experts scale model jet. Whatever your skill level, whoever you are, this is some basics about RC. 
+	<h2>Types</h2>
+	<p>Types of rc planes range anywhere from beginner's training aircraft, to full scale models.</p>
+	<li>Trainers<img src="https://www.rc-airplane-world.com/image-files/hobbyzone-sport-cub-s.jpg"/></li>
+	<li>Mediocre<img src="https://i.ytimg.com/vi/EGg2Cnt8lCI/maxresdefault.jpg"/></li>
+	<li>Advandced<img src="http://www.hooked-on-rc-airplanes.com/images/giant-scale-rc-airplanes5.jpg"/></li>
+	<h3>Trainers</h3>
+	<p>Training rc planes are normally easy to fly and relatively cheap. The price range is anywhere from $20-$80. These planes normally have a few modes in which a learner can easily go from a beginner pilot to an advanced pilot.</p>
+	<h4>Mediocre</h3>
+	<p>These planes are the some of the most fun rc planes to fly. They are normally fast and maneuverable. They range anywhere from 100-300 dollars, depending on the materials it is made out of.</p>
+ 	<h5>Advanced</h5>
+	<p>These planes are the most expensive out of the group. They are extremely difficult to fly and are often made out of expensive materials. Most rc planes like this are made as scale models of real life aircraft.</p>
+	<div id="historic">
+	<p>Historic RC planes are a blast. Most of them are built to look and feel like the real thing. They could be scale models or a small version of the real thing. Some can be bought at stores, others come in kits. If your a real history buff, try to build your own.</p>
+	<img src="http://allanflowersdesign.com/images/EVb1.JPG"/>
+</body>
+	
